@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/pongal_26_AIIMS/static/css/main.c5034344.css",
-    "main.js": "/pongal_26_AIIMS/static/js/main.cd20622d.js",
-    "index.html": "/pongal_26_AIIMS/index.html",
-    "main.c5034344.css.map": "/pongal_26_AIIMS/static/css/main.c5034344.css.map",
-    "main.cd20622d.js.map": "/pongal_26_AIIMS/static/js/main.cd20622d.js.map"
+    "main.css": "/Pongal_26_AIIMS/static/css/main.c5034344.css",
+    "main.js": "/Pongal_26_AIIMS/static/js/main.cd20622d.js",
+    "index.html": "/Pongal_26_AIIMS/index.html",
+    "main.c5034344.css.map": "/Pongal_26_AIIMS/static/css/main.c5034344.css.map",
+    "main.cd20622d.js.map": "/Pongal_26_AIIMS/static/js/main.cd20622d.js.map"
   },
   "entrypoints": [
     "static/css/main.c5034344.css",
