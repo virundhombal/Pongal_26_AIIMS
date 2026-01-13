@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pongal_26_AIIMS/static/css/main.c5034344.css",
+    "main.js": "/pongal_26_AIIMS/static/js/main.cd20622d.js",
+    "index.html": "/pongal_26_AIIMS/index.html",
+    "main.c5034344.css.map": "/pongal_26_AIIMS/static/css/main.c5034344.css.map",
+    "main.cd20622d.js.map": "/pongal_26_AIIMS/static/js/main.cd20622d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5034344.css",
+    "static/js/main.cd20622d.js"
+  ]
+}
