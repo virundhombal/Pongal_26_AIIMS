@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Public+Sans:wght@400;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body { @apply bg-orange-500 text-gray-900; font-family: 'Public Sans', sans-serif; }
+  .festive-title { font-family: 'Archivo Black', sans-serif; }
+}
+
+@layer utilities {
+  .shadow-brutal { box-shadow: 8px 8px 0px 0px rgba(0,0,0,1); }
+  .shadow-brutal-lg { box-shadow: 20px 20px 0px 0px rgba(0,0,0,1); }
+  @keyframes spin-slow { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+  .animate-spin-slow { animation: spin-slow 12s linear infinite; }
+}
+
+input, select { border: 4px solid black !important; border-radius: 1rem !important; outline: none; }
+input:focus, select:focus { transform: translate(2px, 2px); box-shadow: none !important; }
